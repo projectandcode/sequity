@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "sequity-jadi",
+    "seqbox": "seqbox-2113f",
+    "geofence": "sequity-jadi"
+  },
+  "targets": {},
+  "etags": {}
+}
