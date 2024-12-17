@@ -24,4 +24,4 @@ Kumpulan helper dan utility yang sering digunakan.
 Folder untuk pengujian kode, bisa menggunakan framework seperti Jest atau Mocha.
 
 /public
-Folder untuk file statis yang akan diakses oleh klien, seperti gambar atau CSS.
+Folder untuk file statis yang akan diakses oleh klien, seperti gambar atau CSS.#
